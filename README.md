@@ -10,21 +10,15 @@ For the full setup instructions see this [Google Doc](https://docs.google.com/do
 
 ## Testing your bot locally
 
-A step by step series of examples that tell you have to get a development env running
+Follow the steps below to update your bot as you change your code.
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
+Through terminal and in your bot's folder, execute the following code:
 
 ```
-until finished
+$ git add .
+$ git commit -m “message about what you’re changing”
+$ git push heroku master
 ```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Built With
 
