@@ -10,6 +10,8 @@ For the full setup instructions see this [Google Doc](https://docs.google.com/do
 
 ## Testing your bot locally
 
+After you finish the setup instructions, simply go to the Facebook page you linked to your bot and message it!
+
 Follow the steps below to update your bot as you change your code.
 
 Through terminal and in your bot's folder, execute the following code:
