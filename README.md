@@ -6,7 +6,7 @@ All the files you will need are available above: [index.js](../master/index.js),
 
 These files are intended to be used as a framework for your own project by simplifying coding for the bot to if...else statements that are easily modified. More specific instructions are in the files.
 
-For the full setup instructions see the Google Doc linked on our Canvas page.
+For the full setup instructions see this [Google Doc](https://docs.google.com/document/d/1VNUiHBjYad-VNOFdnkx6pJ-B6nGvXyuNu59ROmqB-Lw/edit?usp=sharing) page.
 
 ## Testing your bot locally
 
