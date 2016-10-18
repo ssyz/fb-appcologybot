@@ -1,6 +1,6 @@
-# Guide for creating your own Facebook Messenger bot!
+# Create your own Facebook Messenger bot!
 
-In this guide, you will learn how to setup a fully functional Facebook Messenger Chatbot that can be tested in real-time locally. The bot in this guide is coded using Node.js.
+In this guide, you will learn how to setup a fully functional Facebook Messenger Chatbot that can be tested in real-time locally. The bot in this guide is coded using JavaScript.
 
 All the files you will need are available above: [index.js](../master/index.js), [package.json](../master/package.json), and [.gitignore](../master/.gitignore)
 
