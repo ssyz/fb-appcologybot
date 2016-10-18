@@ -10,9 +10,7 @@ For the full setup instructions see this [Google Doc](https://docs.google.com/do
 
 ## Testing your bot locally
 
-After you finish the setup instructions, simply go to the Facebook page you linked to your bot and message it!
-
-Follow the steps below to update your bot as you change your code.
+Follow these steps to update your bot as you change your code.
 
 Through terminal and in your bot's folder, execute the following code:
 
@@ -21,6 +19,10 @@ $ git add .
 $ git commit -m “message about what you’re changing”
 $ git push heroku master
 ```
+
+After that, message your bot and the changes should be updated :)
+
+For advanced debugging: go to your Heroku account, select the server your bot is on, click "More", and finally select "View Logs".
 
 ## Built With
 
