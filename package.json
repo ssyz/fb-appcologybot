@@ -1,5 +1,5 @@
 {
-  "name": "AppcologyBot",
+  "name": "appcologybot",
   "version": "1.0.0",
   "description": "Facebook messenger bot",
   "main": "index.js",
