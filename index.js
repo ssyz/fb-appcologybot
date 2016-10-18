@@ -178,7 +178,7 @@ THIS SECTION IS WHERE YOU WILL ADD YOUR CODE
             		};
 
 			// send final message list with the top 10 movies
-      sendMessage(recipientId, message_final);
+      sendMessage(event.sender.id, message_final);
 
     		}
 	    })
