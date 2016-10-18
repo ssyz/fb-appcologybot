@@ -108,7 +108,7 @@ THIS SECTION IS WHERE YOU WILL ADD YOUR CODE
 
     /* EXAMPLE 3: API Integration */
     // the below code generates a list of top 10 movies out now
-    else if (text.toUpperCase().indexOf('MOVIE') >= 0) {
+    else if (event.message.text.toUpperCase().indexOf('MOVIE') >= 0) {
 
       // tmdb_url is the API URL the bot calls, look at your specific API documentation to determine the right API URL
 	    var tmdb_url = "https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=7b97857087d9e02a9a3da1932781e9ac"
