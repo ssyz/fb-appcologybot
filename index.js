@@ -2,15 +2,17 @@
 This is the heart of your bot.
 
 This program is coded in JavaScript and requires the installation of additional software and an established server.
-BEFORE MODIFYING THIS CODE SEE CANVAS FOR SETUP INSTRUCTIONS (...)
+BEFORE MODIFYING THIS CODE SEE THE GITHUB REPOSITORY FOR SETUP INSTRUCTIONS (https://github.com/ssyz/fb-appcologybot)
 
 The code has been simplified to if...else statements that you can modify to the functionalities you want.
 I have provided a few examples for handling typical situations and one API integration example - more details below.
 For the basics of if...else statements, please read: http://www.w3schools.com/js/js_if_else.asp
 
-Use this code as a framework when you are working on your Project. Definitely copy and paste things you need.
+How to use this code:
+- Use this code as a framework when you are working on your Project. Copy, paste, expand, delete, and create anything you need!
+- Any line followed by // or *** indicates a comment that is not processed by a compiler. The comments are here to explain the code and guide you along.
 
-If you have additional questions, contact Jay at s.m.syz@emory.edu
+If you have additional questions, post on the Canvas page or contact Jay at s.m.syz@emory.edu
 ************************************/
 
 
